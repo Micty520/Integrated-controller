@@ -53,20 +53,7 @@ int main(void)
 			
 		}
     }
-    flashnum = 0;
-    keynum = 0;
-    enWrite = 0;
 
-    EnableRX1;
-    bLinkMode = 0;
-    gbTimer = 0;
-    gbShkong = 0;
-    enSendJdq = 0;
-    indexj = 0;
-    enMove = 1;
-    shkongcount = 300;
-    MusicTimes = 650;
-    
     for (j = 0; j < 255; j++)
     {
 
